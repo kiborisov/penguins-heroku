@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.write("""
 # Penguin Prediction App
 
-This app predicts the **Palmer Penguin** species!
+This app predicts the **Palmer Penguin** species! By Kirill Borisov.
 
 Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
 """)
