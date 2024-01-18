@@ -1,1 +1,1 @@
-# penguins-heroku
+# penguins-streamlit
